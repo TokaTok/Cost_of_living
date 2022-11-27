@@ -2,9 +2,9 @@
 
 from slnm import gather 
 
-lst = ["Tbilisi","Bogota"]
+lst = ["Dubai","Lisbon"]
 case = "მინიმალური"
-# gather(lst)
+gather(lst)
 
 # pip install -r requirements.txt   ---  install
 # pip freeze > requirements.txt   ---  generate
