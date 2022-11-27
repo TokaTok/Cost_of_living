@@ -4,6 +4,13 @@ Selenium uses website: "numbeo",
 to collect data and analises it with pandas library
 and converts data into excel files.
 
+### Instruction
+
+* Open main.py 
+* modify lst(city list) 
+* add cities you are intrested in.
+* To compare you should write two cities 
+
 ### Requirements 
 
 * Selenium
